@@ -1,0 +1,77 @@
+
+body{
+    
+    text-align: center;
+    background-color: rgb(158, 156, 250);
+}
+
+h1{
+    color: white;
+    font-size: 7rem;
+}
+
+button{
+    height: 300px;
+    width: 300px;
+}
+
+.set{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+
+.sena{
+    background-image: url("images/tu-sena-2.jpg");
+    font-size: 30px;
+    font-weight: bold;
+    border-color: rgb(232, 229, 235);
+    border-radius: 50%;
+    border: 10px;
+}
+
+
+.senahihi{
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(64, 49, 204);
+    border-radius: 30px;
+    height: 70px;
+    border: 10px;
+    margin-top: 30px;
+}
+
+.tinhngu {
+    background-image: url("images/casio.png");
+    font-size: 30px;
+    font-weight: bold;
+    border-color: rgb(232, 229, 235);
+    border-radius: 50%;
+    border: 10px;
+}
+
+.tinhnguhg{
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(64, 49, 204);
+    border-radius: 30px;
+    height: 70px;
+    border: 10px;
+    margin-top: 30px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.alarm {
+    color: rgb(64, 49, 204);
+}
+
+.small {
+    display: flex;
+    flex-direction: column;
+}
